@@ -1,4 +1,4 @@
-rom posixpath import join
+from posixpath import join
 import cv2
 import numpy as np
 
